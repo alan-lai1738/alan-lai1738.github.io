@@ -3760,6 +3760,14 @@ input, select, textarea {
 
 		}
 
+		.main special {
+			 
+   		 margin-left:1em;
+  		  margin-right:1em;
+   
+			}
+		}
+
 /* Wrapper */
 
 	#wrapper {
